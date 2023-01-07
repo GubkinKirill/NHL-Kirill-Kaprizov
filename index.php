@@ -12,6 +12,14 @@
 <body>
     <div class="wrapper">
         <?php require './templates/header.php'; ?> 
+        <hr class="red_line">
+        <main class="main">
+            <div class="gradient">
+                <img src="./img/wild.png" alt="">
+            </div>
+
+            <?php require './templates/statistics.php'; ?> 
+        </main>
     </div>
 </body>
 </html>
