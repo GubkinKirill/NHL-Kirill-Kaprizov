@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700;900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="./style/style.css">
+    <link rel="stylesheet" href="./style/adaptive.css">
     <title>Document</title>
 </head>
 <body>
