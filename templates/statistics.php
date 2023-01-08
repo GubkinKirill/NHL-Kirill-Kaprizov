@@ -4,7 +4,7 @@
             <img src="./img/main/Kaprizov__Kirill.png" alt="Kirill__Kaprizov" class="statistics__img">
             <div class="statistics__block">
                 <h1 class="statistics__block__text">
-                    КАПРИЗОВ КИРИЛЛ
+                    КАПРИЗОВ <br> КИРИЛЛ
                 </h1>
                 <button class="statistics__block__button">
                     СТАТИСТИКА

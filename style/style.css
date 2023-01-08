@@ -146,7 +146,7 @@ select {
     z-index: 11;
 }
 .statistics__container{
-    background-color: #FFFFFF;
+    background-color: #ffffff;
 }
 .statistics__{
     position: relative;
@@ -295,3 +295,13 @@ table,tr,td{
 
 
 
+
+
+.footer{
+    padding: 10px 0;
+    background-color: #154734;
+}
+.footer__container{
+    display: flex;
+    
+}

@@ -20,6 +20,8 @@
 
             <?php require './templates/statistics.php'; ?> 
         </main>
+        <?php require './templates/footer.php'?>
+        
     </div>
 </body>
 </html>
