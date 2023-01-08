@@ -2,7 +2,9 @@
     <div class="header__container _container">
         <div class="header__row">
             <div class="header__images">
-                <img src="./img/header/logo.png" alt="logo" class="header__logo">
+                <a href="">
+                    <img src="./img/header/logo.png" alt="logo" class="header__logo">
+                </a>
                 <img src="./img/header/stateOfHockey.png" alt="state of hockey" class="header__fraza">
             </div>
             <ul class="header__list">
