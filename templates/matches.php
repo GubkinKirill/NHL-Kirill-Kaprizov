@@ -5,7 +5,7 @@
 
         </div>
         <div class="matches__block">
-
+            <h2 style="font-family: 'Roboto';">НХЛ</h2>
             <table class="matches_table">
                 <tr class="matches_table_head">
                     <td>Сезон</td>
@@ -32,7 +32,7 @@
                 <?php endforeach ?>
 
             </table>
-
+            <h2 style="font-family: 'Roboto';">КХЛ</h2>
             <table class="matches_table">
                 <tr class="matches_table_head">
                     <td>Сезон</td>
@@ -59,7 +59,7 @@
                 <?php endforeach ?>
 
             </table>
-
+            <h2 style="font-family: 'Roboto';">СБОРНАЯ РФ</h2>        
             <table class="matches_table">
                 <tr class="matches_table_head">
                     <td>Сезон</td>
@@ -71,7 +71,7 @@
                     <td>О</td>
                 </tr>
                 <?php
-                $table = get_table_('nationa_team');
+                $table = get_table_('national_team');
                 foreach ($table as $i) : ?>
                     <tr class="matches_table_head_body">
 
@@ -84,14 +84,9 @@
                         <td><?php echo $i["assistant"] ?></td>
                     </tr>
                 <?php endforeach ?>
-
+                
             </table>
-
-
-
-
-
-
         </div>
     </div>
+
 </section>

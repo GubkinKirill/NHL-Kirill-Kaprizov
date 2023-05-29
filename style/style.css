@@ -488,6 +488,7 @@ table,tr,td{
     
 }
 
-
-
+.admin_t_row{
+    display: flex;
+}
 

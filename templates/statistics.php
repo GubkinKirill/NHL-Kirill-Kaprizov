@@ -6,9 +6,9 @@
                 <h1 class="statistics__block__text">
                     КАПРИЗОВ <br> КИРИЛЛ
                 </h1>
-                <button class="statistics__block__button">
+                <a href="#st" class="statistics__block__button">
                     СТАТИСТИКА
-                </button>
+                </a>
             </div>
         </div>
 
@@ -21,7 +21,7 @@
                 Хват левый | 175см | 84кг | 25 лет | Minnesota Wild
             </p>
         </div>
-        <div class="table__block_table">
+        <div id="st" class="table__block_table">
             <div class="table__block__info">
                 <ul class="info__list">
                     <li class="info__list__item">
@@ -58,29 +58,30 @@
                     </tr>
                     <tr class="table__now__year">
                         <td class="year">2022-2023</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
+                        
+                        <td>39</td>
+                        <td>23</td>
+                        <td>25</td>
+                        <td>48</td>
+                        <td>-3</td>
+                        <td>31</td>
+                        <td>11</td>
+                        <td>20</td>
+                        <td>1</td>
+                        <td>3</td>
                     </tr>
                     <tr class="table__year">
                         <td class="nhl">Всего в НХЛ</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
+                        <td>175</td>
+                        <td>97</td>
+                        <td>110</td>
+                        <td>207</td>
+                        <td>34</td>
+                        <td>81</td>
+                        <td>33</td>
+                        <td>64</td>
+                        <td>0</td>
+                        <td>5</td>
                     </tr>
                 </table>
             </div>

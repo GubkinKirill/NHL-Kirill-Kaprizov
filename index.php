@@ -22,5 +22,6 @@
         <?php require './templates/footer.php';?>
 
     </div>
+
 </body>
 </html>

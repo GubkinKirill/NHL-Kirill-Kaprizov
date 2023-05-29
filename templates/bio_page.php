@@ -31,7 +31,7 @@
 
 
         <div class="bio__info__block">
-            <p class="bio__info__title">
+            <p  class="bio__info__title">
                 Ранние годы
             </p>
             <div class="block">
